@@ -1,6 +1,6 @@
 # Kinematics
 
-**TODO: Add description**
+Kinematics of rigid body systems (position vectors, velocities, angular velocities, accelerations, etc.). Coming soon!
 
 ## Installation
 
